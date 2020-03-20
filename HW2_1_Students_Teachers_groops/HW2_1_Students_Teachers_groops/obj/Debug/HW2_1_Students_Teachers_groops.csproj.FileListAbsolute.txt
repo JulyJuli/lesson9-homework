@@ -1,0 +1,6 @@
+C:\Users\UseR\source\repos\HW2_1_Students_Teachers_groops\HW2_1_Students_Teachers_groops\bin\Debug\HW2_1_Students_Teachers_groops.exe.config
+C:\Users\UseR\source\repos\HW2_1_Students_Teachers_groops\HW2_1_Students_Teachers_groops\bin\Debug\HW2_1_Students_Teachers_groops.exe
+C:\Users\UseR\source\repos\HW2_1_Students_Teachers_groops\HW2_1_Students_Teachers_groops\bin\Debug\HW2_1_Students_Teachers_groops.pdb
+C:\Users\UseR\source\repos\HW2_1_Students_Teachers_groops\HW2_1_Students_Teachers_groops\obj\Debug\HW2_1_Students_Teachers_groops.csprojAssemblyReference.cache
+C:\Users\UseR\source\repos\HW2_1_Students_Teachers_groops\HW2_1_Students_Teachers_groops\obj\Debug\HW2_1_Students_Teachers_groops.exe
+C:\Users\UseR\source\repos\HW2_1_Students_Teachers_groops\HW2_1_Students_Teachers_groops\obj\Debug\HW2_1_Students_Teachers_groops.pdb
