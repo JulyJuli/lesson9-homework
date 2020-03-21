@@ -1,0 +1,6 @@
+C:\Users\Lenovo\source\repos\StudyingProcess1\StudyingProcess1\bin\Debug\StudyingProcess1.exe.config
+C:\Users\Lenovo\source\repos\StudyingProcess1\StudyingProcess1\bin\Debug\StudyingProcess1.exe
+C:\Users\Lenovo\source\repos\StudyingProcess1\StudyingProcess1\bin\Debug\StudyingProcess1.pdb
+C:\Users\Lenovo\source\repos\StudyingProcess1\StudyingProcess1\obj\Debug\StudyingProcess1.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\StudyingProcess1\StudyingProcess1\obj\Debug\StudyingProcess1.exe
+C:\Users\Lenovo\source\repos\StudyingProcess1\StudyingProcess1\obj\Debug\StudyingProcess1.pdb
