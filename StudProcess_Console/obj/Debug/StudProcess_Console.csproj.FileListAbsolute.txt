@@ -1,0 +1,9 @@
+C:\Users\Moisha\source\repos\StudProcess\StudProcess_Console\bin\Debug\StudProcess_Console.exe.config
+C:\Users\Moisha\source\repos\StudProcess\StudProcess_Console\bin\Debug\StudProcess_Console.exe
+C:\Users\Moisha\source\repos\StudProcess\StudProcess_Console\bin\Debug\StudProcess_Console.pdb
+C:\Users\Moisha\source\repos\StudProcess\StudProcess_Console\bin\Debug\StudProcess_DLL.dll
+C:\Users\Moisha\source\repos\StudProcess\StudProcess_Console\bin\Debug\StudProcess_DLL.pdb
+C:\Users\Moisha\source\repos\StudProcess\StudProcess_Console\obj\Debug\StudProcess_Console.csprojAssemblyReference.cache
+C:\Users\Moisha\source\repos\StudProcess\StudProcess_Console\obj\Debug\StudProcess_Console.csproj.CopyComplete
+C:\Users\Moisha\source\repos\StudProcess\StudProcess_Console\obj\Debug\StudProcess_Console.exe
+C:\Users\Moisha\source\repos\StudProcess\StudProcess_Console\obj\Debug\StudProcess_Console.pdb
