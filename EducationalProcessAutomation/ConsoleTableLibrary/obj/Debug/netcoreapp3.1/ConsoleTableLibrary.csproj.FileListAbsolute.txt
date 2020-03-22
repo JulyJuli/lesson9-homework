@@ -1,0 +1,8 @@
+/Users/yuriy/RiderProjects/EducationalProcessAutomation/ConsoleTableLibrary/bin/Debug/netcoreapp3.1/ConsoleTableLibrary.deps.json
+/Users/yuriy/RiderProjects/EducationalProcessAutomation/ConsoleTableLibrary/bin/Debug/netcoreapp3.1/ConsoleTableLibrary.dll
+/Users/yuriy/RiderProjects/EducationalProcessAutomation/ConsoleTableLibrary/bin/Debug/netcoreapp3.1/ConsoleTableLibrary.pdb
+/Users/yuriy/RiderProjects/EducationalProcessAutomation/ConsoleTableLibrary/obj/Debug/netcoreapp3.1/ConsoleTableLibrary.csprojAssemblyReference.cache
+/Users/yuriy/RiderProjects/EducationalProcessAutomation/ConsoleTableLibrary/obj/Debug/netcoreapp3.1/ConsoleTableLibrary.AssemblyInfoInputs.cache
+/Users/yuriy/RiderProjects/EducationalProcessAutomation/ConsoleTableLibrary/obj/Debug/netcoreapp3.1/ConsoleTableLibrary.AssemblyInfo.cs
+/Users/yuriy/RiderProjects/EducationalProcessAutomation/ConsoleTableLibrary/obj/Debug/netcoreapp3.1/ConsoleTableLibrary.dll
+/Users/yuriy/RiderProjects/EducationalProcessAutomation/ConsoleTableLibrary/obj/Debug/netcoreapp3.1/ConsoleTableLibrary.pdb

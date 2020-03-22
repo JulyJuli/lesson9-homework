@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EducationalProcessAutomation", "EducationalProcessAutomation\EducationalProcessAutomation.csproj", "{3838A71C-C66A-4C3D-8032-D4A29F9D57C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleTableLibrary", "ConsoleTableLibrary\ConsoleTableLibrary.csproj", "{FB54B09B-2B7D-4B40-97AC-EE6DCE23B24B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleValidationLibrary", "ConsoleValidationLibrary\ConsoleValidationLibrary.csproj", "{79A7D4EA-73D4-4A83-B56B-B9AD4D43D08C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3838A71C-C66A-4C3D-8032-D4A29F9D57C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3838A71C-C66A-4C3D-8032-D4A29F9D57C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3838A71C-C66A-4C3D-8032-D4A29F9D57C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3838A71C-C66A-4C3D-8032-D4A29F9D57C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB54B09B-2B7D-4B40-97AC-EE6DCE23B24B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB54B09B-2B7D-4B40-97AC-EE6DCE23B24B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB54B09B-2B7D-4B40-97AC-EE6DCE23B24B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB54B09B-2B7D-4B40-97AC-EE6DCE23B24B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79A7D4EA-73D4-4A83-B56B-B9AD4D43D08C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79A7D4EA-73D4-4A83-B56B-B9AD4D43D08C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79A7D4EA-73D4-4A83-B56B-B9AD4D43D08C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79A7D4EA-73D4-4A83-B56B-B9AD4D43D08C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

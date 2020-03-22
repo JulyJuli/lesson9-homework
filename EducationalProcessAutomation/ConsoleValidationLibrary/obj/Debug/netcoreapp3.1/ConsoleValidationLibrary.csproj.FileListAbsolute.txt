@@ -1,0 +1,8 @@
+/Users/yuriy/RiderProjects/EducationalProcessAutomation/ConsoleValidationLibrary/bin/Debug/netcoreapp3.1/ConsoleValidationLibrary.deps.json
+/Users/yuriy/RiderProjects/EducationalProcessAutomation/ConsoleValidationLibrary/bin/Debug/netcoreapp3.1/ConsoleValidationLibrary.dll
+/Users/yuriy/RiderProjects/EducationalProcessAutomation/ConsoleValidationLibrary/bin/Debug/netcoreapp3.1/ConsoleValidationLibrary.pdb
+/Users/yuriy/RiderProjects/EducationalProcessAutomation/ConsoleValidationLibrary/obj/Debug/netcoreapp3.1/ConsoleValidationLibrary.csprojAssemblyReference.cache
+/Users/yuriy/RiderProjects/EducationalProcessAutomation/ConsoleValidationLibrary/obj/Debug/netcoreapp3.1/ConsoleValidationLibrary.AssemblyInfoInputs.cache
+/Users/yuriy/RiderProjects/EducationalProcessAutomation/ConsoleValidationLibrary/obj/Debug/netcoreapp3.1/ConsoleValidationLibrary.AssemblyInfo.cs
+/Users/yuriy/RiderProjects/EducationalProcessAutomation/ConsoleValidationLibrary/obj/Debug/netcoreapp3.1/ConsoleValidationLibrary.dll
+/Users/yuriy/RiderProjects/EducationalProcessAutomation/ConsoleValidationLibrary/obj/Debug/netcoreapp3.1/ConsoleValidationLibrary.pdb
