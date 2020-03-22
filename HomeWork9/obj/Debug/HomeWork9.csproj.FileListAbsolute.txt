@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\HomeWork9\HomeWork9\bin\Debug\HomeWork9.exe.config
+C:\Users\User\source\repos\HomeWork9\HomeWork9\bin\Debug\HomeWork9.exe
+C:\Users\User\source\repos\HomeWork9\HomeWork9\bin\Debug\HomeWork9.pdb
+C:\Users\User\source\repos\HomeWork9\HomeWork9\bin\Debug\UniversityLibrary.dll
+C:\Users\User\source\repos\HomeWork9\HomeWork9\bin\Debug\UniversityLibrary.pdb
+C:\Users\User\source\repos\HomeWork9\HomeWork9\obj\Debug\HomeWork9.csprojAssemblyReference.cache
+C:\Users\User\source\repos\HomeWork9\HomeWork9\obj\Debug\HomeWork9.csproj.CopyComplete
+C:\Users\User\source\repos\HomeWork9\HomeWork9\obj\Debug\HomeWork9.exe
+C:\Users\User\source\repos\HomeWork9\HomeWork9\obj\Debug\HomeWork9.pdb
