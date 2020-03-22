@@ -1,0 +1,5 @@
+C:\Users\Moisha\source\repos\StudProcess\StudProcess_DLL\bin\Debug\StudProcess_DLL.dll
+C:\Users\Moisha\source\repos\StudProcess\StudProcess_DLL\bin\Debug\StudProcess_DLL.pdb
+C:\Users\Moisha\source\repos\StudProcess\StudProcess_DLL\obj\Debug\StudProcess_DLL.csprojAssemblyReference.cache
+C:\Users\Moisha\source\repos\StudProcess\StudProcess_DLL\obj\Debug\StudProcess_DLL.dll
+C:\Users\Moisha\source\repos\StudProcess\StudProcess_DLL\obj\Debug\StudProcess_DLL.pdb
