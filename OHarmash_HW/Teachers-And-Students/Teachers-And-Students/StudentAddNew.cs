@@ -13,7 +13,7 @@ namespace Teachers_And_Students
             Console.Clear();
 
             var randomName = random.Next(0, 4).ToString();
-            var age = random.Next(16, 25);
+            var age = random.Next(16, 50);
             Enum.TryParse(randomName.ToString(), out Names name);
 
             UpdateDictionary(name.ToString(), age);
@@ -28,7 +28,7 @@ namespace Teachers_And_Students
             Console.WriteLine("Set Name of student:");
             var name = Console.ReadLine();
 
-            Console.WriteLine("Set student Age:");
+            Console.WriteLine("Set {0} Age. Age should be in range {1} - {2}.", name,StudentType._minAge, StudentType._maxAge);
             var ageString = Console.ReadLine();
             int.TryParse(ageString, out var age);
 
