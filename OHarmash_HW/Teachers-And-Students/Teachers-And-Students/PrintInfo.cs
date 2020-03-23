@@ -1,9 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Text.RegularExpressions;
-using System.Threading.Tasks;
 
 namespace Teachers_And_Students
 {
@@ -30,23 +26,23 @@ namespace Teachers_And_Students
             Console.Clear();
 
             Console.WriteLine("\n  Assistant group:");
-            foreach (KeyValuePair<string, Student> student in Groups.Assistant)
+            foreach (KeyValuePair<string, StudentType> student in Groups.Assistant)
             {
-                Student theStudent = student.Value;
+                StudentType theStudent = student.Value;
                 Console.WriteLine("Name: {0}, Age: {1}", theStudent.Name, theStudent.Age);
             }
 
             Console.WriteLine("\n  Lecturer group:");
-            foreach (KeyValuePair<string, Student> student in Groups.Lecturer)
+            foreach (KeyValuePair<string, StudentType> student in Groups.Lecturer)
             {
-                Student theStudent = student.Value;
+                StudentType theStudent = student.Value;
                 Console.WriteLine("Name: {0}, Age: {1}", theStudent.Name, theStudent.Age);
             }
 
             Console.WriteLine("\n  Docent group:");
-            foreach (KeyValuePair<string, Student> student in Groups.Docent)
+            foreach (KeyValuePair<string, StudentType> student in Groups.Docent)
             {
-                Student theStudent = student.Value;
+                StudentType theStudent = student.Value;
                 Console.WriteLine("Name: {0}, Age: {1}", theStudent.Name, theStudent.Age);
             }
         }

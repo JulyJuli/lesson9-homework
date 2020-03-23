@@ -1,35 +1,18 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Text.RegularExpressions;
-using System.Threading.Tasks;
-
-namespace Teachers_And_Students
+﻿namespace Teachers_And_Students
 {
-    class Program
+    internal class Program
     {
         static void Main(string[] args)
         {
 
             //Preset for TESTING
-            AddStudent.Generate();
-            AddStudent.Generate();
-            AddStudent.Generate();
-            AddStudent.Generate();
-            AddStudent.Generate();
-            AddStudent.Generate();
+            for (var i = 0; i <= 6; i++)
+            {
+                StudentAddNew.Generate();
+            }
 
             //Show menu
             Menu.ShowMenu();
-            
-
-
         }
-
-        
-        
-        
-        
     }
 }

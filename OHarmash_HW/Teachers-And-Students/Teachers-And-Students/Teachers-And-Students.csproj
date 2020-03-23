@@ -43,7 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AddStudent.cs" />
+    <Compile Include="StudentType.cs" />
+    <Compile Include="StudentNamesRange.cs" />
+    <Compile Include="StudentAddNew.cs" />
+    <Compile Include="MenuActions.cs" />
     <Compile Include="Groups.cs" />
     <Compile Include="PrintInfo.cs" />
     <Compile Include="Menu.cs" />

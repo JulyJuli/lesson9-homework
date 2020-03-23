@@ -1,23 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Teachers_And_Students
 {
-    internal static class Menu
+    internal class Menu : MenuActions
     {
-        internal enum Actions
-        {
-            Exit,
-            ShowGeneralStat,
-            ShowDetailedStat,
-            Automation,
-            Interactive
-        }
-
-
         internal static void ShowMenu()
         {
             string message = "\n" +
@@ -43,11 +29,11 @@ namespace Teachers_And_Students
                     ShowMenu();
                     return;
                 case Actions.Automation:
-                    AddStudent.Generate();
+                    StudentAddNew.Generate();
                     ShowMenu();
                     return;
                 case Actions.Interactive:
-                    AddStudent.Interactive();
+                    StudentAddNew.Interactive();
                     ShowMenu();
                     return;
                 case Actions.Exit:

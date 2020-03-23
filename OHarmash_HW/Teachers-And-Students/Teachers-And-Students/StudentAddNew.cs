@@ -1,23 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Teachers_And_Students
 {
-    //Names for Autogeneration students
-    enum Names
-    {
-        Oleh,
-        Nika,
-        Kostya,
-        Marina,
-        Anna
-    }
-    
-
-    static class AddStudent
+    internal class StudentAddNew : StudentNamesRange
     {
         static Random random = new Random();
 
@@ -56,7 +41,7 @@ namespace Teachers_And_Students
         {
             var id = Guid.NewGuid().ToString();
             
-            var newStudent = new Student();
+            var newStudent = new StudentType();
             newStudent.ID = id;
             newStudent.Name = name;
             newStudent.Age = age;
