@@ -1,0 +1,12 @@
+E:\HomeWork9\HW2103\bin\Debug\HW2103.exe.config
+E:\HomeWork9\HW2103\bin\Debug\HW2103.exe
+E:\HomeWork9\HW2103\bin\Debug\HW2103.pdb
+E:\HomeWork9\HW2103\obj\Debug\HW2103.csprojAssemblyReference.cache
+E:\HomeWork9\HW2103\obj\Debug\HW2103.exe
+E:\HomeWork9\HW2103\obj\Debug\HW2103.pdb
+E:\HomeWork_A_LVL\HomeWork9\HW2103\bin\Debug\HW2103.exe.config
+E:\HomeWork_A_LVL\HomeWork9\HW2103\bin\Debug\HW2103.exe
+E:\HomeWork_A_LVL\HomeWork9\HW2103\bin\Debug\HW2103.pdb
+E:\HomeWork_A_LVL\HomeWork9\HW2103\obj\Debug\HW2103.csprojAssemblyReference.cache
+E:\HomeWork_A_LVL\HomeWork9\HW2103\obj\Debug\HW2103.exe
+E:\HomeWork_A_LVL\HomeWork9\HW2103\obj\Debug\HW2103.pdb
