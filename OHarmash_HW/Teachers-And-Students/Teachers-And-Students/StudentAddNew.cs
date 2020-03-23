@@ -46,17 +46,17 @@ namespace Teachers_And_Students
             newStudent.Name = name;
             newStudent.Age = age;
             
-            if (Groups.Assistant.Count < Groups.AssistantLimit)
+            if (Groups.Teachers.Assistant.Count < Groups.Limits.AssistantLimit)
             {
-                Groups.Assistant.Add(key: newStudent.ID, value: newStudent);
+                Groups.Teachers.Assistant.Add(key: newStudent.ID, value: newStudent);
             }
-            else if (Groups.Lecturer.Count < Groups.LecturerLimit)
+            else if (Groups.Teachers.Lecturer.Count < Groups.Limits.LecturerLimit)
             {
-                Groups.Lecturer.Add(key: newStudent.ID, value: newStudent);
+                Groups.Teachers.Lecturer.Add(key: newStudent.ID, value: newStudent);
             }
-            else if (Groups.Docent.Count < Groups.DocentLimit)
+            else if (Groups.Teachers.Docent.Count < Groups.Limits.DocentLimit)
             {
-                Groups.Docent.Add(key: newStudent.ID, value: newStudent);
+                Groups.Teachers.Docent.Add(key: newStudent.ID, value: newStudent);
             }
             else
             {
